@@ -1,0 +1,14 @@
+/vendor
+/workbench
+/node_modules
+/public/storage
+/public/components
+/public/evidencias
+/public/registros
+Homestead.yaml
+Homestead.json
+composer.lock
+*.idea
+.env
+.env.server
+.env.local
